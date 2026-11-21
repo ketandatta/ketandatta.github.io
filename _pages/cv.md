@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Pharmaceutical Chemistry (focus on Behavioral Pharmacology and Neuroscience), Rowan University, Summer 2027 (expected)
 * M.S. in Pharmaceutical Sciences, Rowan University, 2019-2021
-* B.S. in Pharmacy, Sri Padmavathi Mahila Visvavidyalayam, 2013-2017 
+* B.S. in Pharmacy, Sri Padmavathi Mahila Visvavidyalayam, 2013-2017
 
 Work experience
 ======
