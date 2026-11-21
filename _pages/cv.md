@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Pharmaceutical Chemistry (focus on Behavioral Pharmacology and Neuroscience), Rowan University, Summer 2027 (expected)
+* M.S. in Pharmaceutical Sciences, Rowan University, 2019-2021
+* B.S. in Pharmacy, Sri Padmavathi Mahila Visvavidyalayam, 2013-2017 
 
 Work experience
 ======
@@ -34,12 +34,51 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis and Programing 
+  * R (data cleaning, wrangling, statistical analysis, data visualization)
+  * GraphPad Prism 
+  * JMP 
+  * Microsoft Excel 
+  * MED-PC programming
+
+* Behavioral Techniques
+  * Operant self-administration (IV drug delivery, punishment models, fixed and progressive ratio schedules)
+  * Drug Discrimination
+  * Conditioned Place Preference (CPP)
+  * Open-field locomotor activity
+  * Rotarod
+  * Nociception assays: Hot plate, tail flick, von Frey 
+  * Plethysmography
+  * PrePulse Inhibition (PPI) 
+  * Maintaining rodent colonies and breeding
+  * Perfusions
+  * Euthanasia
+
+* Neuroscience and Histological Techniques
+  * Fiber Photometry 
+  * Optogenetics
+  * Necropsy and tissue collection
+  * Immunohistochemistry
+
+* Molecular and Analytical Techniques
+  * PCR
+  * Western blot
+  * Gel electrophoresis
+  * ELISA
+  * High-Performance Liquid Chromatography (HPLC)
+
+* Equipment Setup 
+  * Med Associates Prepulse Inhibition Chambers
+  * Med Associates operant chambers: Full system installation, hardware/software integration and troubleshooting
+  * HTEC-510 HPLC and Eicom INSIGHT autosampler
+
+* Lab Setup
+  * Set-up and organized an in vitro lab for histology and immunohistochemistry studies
+  * Identified vendors, obtained quotes, and placed orders for equipment and consumables
+  * Established and maintained a comprehensive inventory and record-keeping for lab supplies
+  * Installed and set up laboratory equipment, including HPLC systems and behavioral testing apparatus 
+  * Assisted with software installation and integration between hardware and data acquisition systems
+  * Worked closely with the PI to ensure efficient lab organization and day-to-day operations
 
 Publications
 ======
